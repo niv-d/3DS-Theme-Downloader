@@ -13,6 +13,8 @@ Usage:
 
 *When ready to download*
 
+1. Open a working ftp client on your 3ds (NOT CHMM2, the theme transfer is broken)
+
 5. Enter the IP of your 3ds in the textbox before the :5000
 
 6. Select the directory of the themes folder or input your own
