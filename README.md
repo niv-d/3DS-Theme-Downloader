@@ -21,3 +21,7 @@ Usage:
 
 7. Click send, statuses will be in the bar and if successful a message should appear
 
+
+
+
+If building requires a json deserializer, use nuget for "Install-Package Newtonsoft.Json -Version 9.0.1"
