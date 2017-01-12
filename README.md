@@ -1,6 +1,8 @@
 # 3DS-Theme-Downloader
 Allows the transfer of themes from 3dsthem.es to your 3ds over ftp
 
+Note: This isn't actually homebrew, it's an app that you run on your pc that places themes on your 3ds as long as it is running a ftp server
+
 Usage:
 
 1. Download the latest release
