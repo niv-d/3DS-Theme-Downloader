@@ -2,7 +2,7 @@
 Allows the transfer of themes from 3dsthem.es to your 3ds over ftp
 
 Usage:
-1. Download the latest release
+1. Download the latest release\n
 2. Extract the zip
 3. Run the exe "Theme Downloader"
 4. Browse the themes
